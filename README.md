@@ -18,7 +18,7 @@ a University of Sriwijaya student studying computer systems who is enthusiastic 
     <!--START_SECTION:waka-->
 
 ```rust
-From: 29 March 2024 - To: 06 November 2025
+From: 29 March 2024 - To: 07 November 2025
 
 Total Time: 150 hrs 23 mins
 
